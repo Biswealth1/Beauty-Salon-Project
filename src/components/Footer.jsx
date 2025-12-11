@@ -103,7 +103,7 @@ const Footer = () => {
 
       {/* Bottom Section */}
       <div className="mt-12 border-t border-gray-700 pt-6 text-center text-sm">
-        <p>© {new Date().getFullYear()} Blessing Orji. All rights reserved.</p>
+        <p>© {new Date().getFullYear()} Adeoye Abisola. All rights reserved.</p>
       </div>
     </footer>
   );
